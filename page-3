@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="Brook">
+  <title>The Lantern | The Unfinished Map</title>
+</head>
+<body>
+  <header>
+    <p>The forest path</p>
+    <h1>The Lantern</h1>
+    <hr>
+  </header>
+
+  <main>
+    <p>I found a lantern hanging from a branch. Under it sat a fox with a pencil behind its ear.</p>
+
+    <p>“You left this part empty,” the fox said.</p>
+
+    <p>“I had not thought of anything yet.”</p>
+
+    <p>“Empty is not the same as finished.”</p>
+
+    <p>Behind the fox, the forest faded into white paper. I could draw whatever I wanted there. A castle. A monster. An entire second world. For a moment, I wanted to add everything.</p>
+
+    <p>Then I noticed a single set of footprints leading toward the village. Someone had walked through this unfinished forest without waiting for me to make it perfect.</p>
+
+    <p>The fox offered me the lantern. “What do you want to see first?”</p>
+
+    <nav aria-label="Story choices">
+      <h2>What happens next?</h2>
+      <ul>
+        <li><a href="page-5.html">Take the lantern and follow the footprints.</a></li>
+        <li><a href="page-6.html">Ask the fox how to reach the edge of the map.</a></li>
+      </ul>
+    </nav>
+  </main>
+
+  <footer>
+    <hr>
+    <p><a href="index.html">Start over</a></p>
+  </footer>
+</body>
+</html>
