@@ -1,49 +1,21 @@
-/* styles.css */
-
-* {
-	font-family: Arial;
-	line-height: 1.4em;
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  color: #222;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  line-height: 1.6;
 }
 
-p a {
-	font-family: 'Courier New', Courier, monospace;
-	font-size: 1.3em;
-	color: red;
-	text-decoration: none;
-	font-weight: bold;
+h1 {
+  color: #154734;
 }
 
-p a:hover {
-	color: dodgerblue;
-	border-bottom: 2px dotted dodgerblue;
+a {
+  color: #154734;
 }
 
-ul.choices {
-	list-style-type: none;
-	width: 90%;
+a:hover {
+  color: #b45309;
 }
-
-ul.choices li a{
-	color: red;
-	text-decoration: none;
-	font-weight: bold;
-	display: block;
-	border: 4px dashed #2e3d28;
-	background-color: darkkhaki;
-	margin: 10px; 
-	padding: 15px 18px;
-	}
-
-	ul.choices li a:hover {
-		color: darkkhaki;
-		background-color: #2e3d28;
-	}
-
-	img {
-		padding: 20px;
-		border-radius: 10px 40px 5px 0px;
-	}
-
-	img:hover {
-		background: #000;
-	}
